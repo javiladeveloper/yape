@@ -1,5 +1,4 @@
-// test/antifraud/services/fraud-evaluator.service.spec.ts
-import { FraudEvaluatorService } from '../../../src/antifraud/services/fraud-evaluator.service';
+import { FraudEvaluatorService } from './fraud-evaluator.service';
 
 describe('FraudEvaluatorService', () => {
   let service: FraudEvaluatorService;
